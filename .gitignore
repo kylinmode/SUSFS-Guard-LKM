@@ -1,0 +1,3 @@
+# 仅放 README，产物走 Releases
+*.zip
+*.ko
